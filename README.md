@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aadicoder1/LC/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/aadicoder1/LC/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aadicoder1/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadicoder1/LC/tree/master/0700-search-in-a-binary-search-tree) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aadicoder1/LC/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/aadicoder1/LC/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aadicoder1/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadicoder1/LC/tree/master/0700-search-in-a-binary-search-tree) |
@@ -24,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aadicoder1/LC/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/aadicoder1/LC/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aadicoder1/LC/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aadicoder1/LC/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/aadicoder1/LC/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
