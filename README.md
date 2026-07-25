@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadicoder1/LC/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadicoder1/LC/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadicoder1/LC/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aadicoder1/LC/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/aadicoder1/LC/tree/master/1920-build-array-from-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aadicoder1/LC/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 <!---LeetCode Topics End-->
