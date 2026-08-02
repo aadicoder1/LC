@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aadicoder1/LC/tree/master/0007-reverse-integer) |
+| [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadicoder1/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadicoder1/LC/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/aadicoder1/LC/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadicoder1/LC/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aadicoder1/LC/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
