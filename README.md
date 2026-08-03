@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aadicoder1/LC/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadicoder1/LC/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadicoder1/LC/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadicoder1/LC/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aadicoder1/LC/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
