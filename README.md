@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 | [2652-sum-multiples](https://github.com/aadicoder1/LC/tree/master/2652-sum-multiples) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/aadicoder1/LC/tree/master/3945-digit-frequency-score) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadicoder1/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadicoder1/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadicoder1/LC/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3945-digit-frequency-score](https://github.com/aadicoder1/LC/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
