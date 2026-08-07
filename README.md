@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aadicoder1/LC/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/aadicoder1/LC/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/aadicoder1/LC/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aadicoder1/LC/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/aadicoder1/LC/tree/master/3794-reverse-string-prefix) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aadicoder1/LC/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aadicoder1/LC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
