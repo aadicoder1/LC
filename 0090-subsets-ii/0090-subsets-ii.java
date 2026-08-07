@@ -1,0 +1,17 @@
+class Solution {
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums);
+        List<List<Integer>> ans= new ArrayList<>();
+        backtrack(nums,0,new ArrayList<>(),ans);
+        return ans;
+    }
+    void backtrack(int[] nums,int str,List<Integer> temp,List<List<Integer>> ans){
+        ans.add(new ArrayList<>(temp));
+        for(int i=str;i<nums.length;i++){
+            if(i>str && nums[i]==nums[i-1]) continue;
+            temp.add(nums[i]);
+            backtrack(nums,i+1,temp,ans);
+            temp.remove(temp.size()-1);
+        }
+    }
+}
