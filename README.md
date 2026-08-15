@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadicoder1/LC/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/aadicoder1/LC/tree/master/3668-restore-finishing-order) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aadicoder1/LC/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aadicoder1/LC/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aadicoder1/LC/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/aadicoder1/LC/tree/master/3925-concatenate-array-with-reverse) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aadicoder1/LC/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadicoder1/LC/tree/master/0090-subsets-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aadicoder1/LC/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aadicoder1/LC/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
