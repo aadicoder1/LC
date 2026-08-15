@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aadicoder1/LC/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aadicoder1/LC/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aadicoder1/LC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadicoder1/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/aadicoder1/LC/tree/master/0771-jewels-and-stones) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aadicoder1/LC/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadicoder1/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aadicoder1/LC/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aadicoder1/LC/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/aadicoder1/LC/tree/master/1991-find-the-middle-index-in-array) |
 ## Quickselect
