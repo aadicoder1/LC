@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aadicoder1/LC/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aadicoder1/LC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/aadicoder1/LC/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadicoder1/LC/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/aadicoder1/LC/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadicoder1/LC/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aadicoder1/LC/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadicoder1/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aadicoder1/LC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/aadicoder1/LC/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/aadicoder1/LC/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadicoder1/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadicoder1/LC/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aadicoder1/LC/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1386-cinema-seat-allocation](https://github.com/aadicoder1/LC/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadicoder1/LC/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aadicoder1/LC/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadicoder1/LC/tree/master/0090-subsets-ii) |
+| [1386-cinema-seat-allocation](https://github.com/aadicoder1/LC/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/aadicoder1/LC/tree/master/2351-first-letter-to-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aadicoder1/LC/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aadicoder1/LC/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
