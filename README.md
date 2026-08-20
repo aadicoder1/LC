@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/aadicoder1/LC/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadicoder1/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadicoder1/LC/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aadicoder1/LC/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadicoder1/LC/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/aadicoder1/LC/tree/master/3668-restore-finishing-order) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/aadicoder1/LC/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aadicoder1/LC/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aadicoder1/LC/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/aadicoder1/LC/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
