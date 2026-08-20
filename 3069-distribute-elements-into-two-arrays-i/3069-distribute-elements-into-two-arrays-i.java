@@ -11,6 +11,7 @@ class Solution {
             else lst2.add(nums[i]);
         }
         lst1.addAll(lst2);
-        return lst1.stream().mapToInt(Integer::intValue).toArray();
+        for(int i=0;i<lst1.size();i++) nums[i]=lst1.get(i);
+        return nums;
     }
 }
