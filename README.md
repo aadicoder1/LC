@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/aadicoder1/LC/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aadicoder1/LC/tree/master/2769-find-the-maximum-achievable-number) |
+| [2864-maximum-odd-binary-number](https://github.com/aadicoder1/LC/tree/master/2864-maximum-odd-binary-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aadicoder1/LC/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aadicoder1/LC/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aadicoder1/LC/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/aadicoder1/LC/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadicoder1/LC/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2864-maximum-odd-binary-number](https://github.com/aadicoder1/LC/tree/master/2864-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadicoder1/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadicoder1/LC/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/aadicoder1/LC/tree/master/2351-first-letter-to-appear-twice) |
+| [2864-maximum-odd-binary-number](https://github.com/aadicoder1/LC/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aadicoder1/LC/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/aadicoder1/LC/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aadicoder1/LC/tree/master/3760-maximum-substrings-with-distinct-start) |
