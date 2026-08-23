@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aadicoder1/LC/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1927-sum-game](https://github.com/aadicoder1/LC/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/aadicoder1/LC/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/aadicoder1/LC/tree/master/2652-sum-multiples) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aadicoder1/LC/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/aadicoder1/LC/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadicoder1/LC/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/aadicoder1/LC/tree/master/1927-sum-game) |
 | [2864-maximum-odd-binary-number](https://github.com/aadicoder1/LC/tree/master/2864-maximum-odd-binary-number) |
 ## Sorting
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aadicoder1/LC/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/aadicoder1/LC/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadicoder1/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/aadicoder1/LC/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadicoder1/LC/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/aadicoder1/LC/tree/master/2351-first-letter-to-appear-twice) |
 | [2864-maximum-odd-binary-number](https://github.com/aadicoder1/LC/tree/master/2864-maximum-odd-binary-number) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/aadicoder1/LC/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
