@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/aadicoder1/LC/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/aadicoder1/LC/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 ## Game Theory
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aadicoder1/LC/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadicoder1/LC/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/aadicoder1/LC/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/aadicoder1/LC/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/aadicoder1/LC/tree/master/2351-first-letter-to-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aadicoder1/LC/tree/master/3304-find-the-k-th-character-in-string-game-i) |
