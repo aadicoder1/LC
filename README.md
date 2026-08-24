@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadicoder1/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/aadicoder1/LC/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadicoder1/LC/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aadicoder1/LC/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadicoder1/LC/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadicoder1/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadicoder1/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadicoder1/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aadicoder1/LC/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/aadicoder1/LC/tree/master/0238-product-of-array-except-self) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aadicoder1/LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadicoder1/LC/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadicoder1/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/aadicoder1/LC/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/aadicoder1/LC/tree/master/3794-reverse-string-prefix) |
