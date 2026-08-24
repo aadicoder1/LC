@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aadicoder1/LC/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/aadicoder1/LC/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1927-sum-game](https://github.com/aadicoder1/LC/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/aadicoder1/LC/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
