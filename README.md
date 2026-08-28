@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aadicoder1/LC/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/aadicoder1/LC/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aadicoder1/LC/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aadicoder1/LC/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/aadicoder1/LC/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadicoder1/LC/tree/master/0090-subsets-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aadicoder1/LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadicoder1/LC/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadicoder1/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/aadicoder1/LC/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/aadicoder1/LC/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/aadicoder1/LC/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/aadicoder1/LC/tree/master/0155-min-stack) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aadicoder1/LC/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/aadicoder1/LC/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aadicoder1/LC/tree/master/0052-n-queens-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
