@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/aadicoder1/LC/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/aadicoder1/LC/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
+| [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadicoder1/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aadicoder1/LC/tree/master/0724-find-pivot-index) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aadicoder1/LC/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadicoder1/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
+| [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/aadicoder1/LC/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aadicoder1/LC/tree/master/0013-roman-to-integer) |
+| [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/aadicoder1/LC/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/aadicoder1/LC/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadicoder1/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
