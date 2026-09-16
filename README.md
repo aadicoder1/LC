@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadicoder1/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/aadicoder1/LC/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/aadicoder1/LC/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadicoder1/LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/aadicoder1/LC/tree/master/0704-binary-search) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aadicoder1/LC/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/aadicoder1/LC/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aadicoder1/LC/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/aadicoder1/LC/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/aadicoder1/LC/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aadicoder1/LC/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadicoder1/LC/tree/master/0628-maximum-product-of-three-numbers) |
