@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aadicoder1/LC/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/aadicoder1/LC/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aadicoder1/LC/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/aadicoder1/LC/tree/master/0520-detect-capital) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadicoder1/LC/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/aadicoder1/LC/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/aadicoder1/LC/tree/master/0509-fibonacci-number) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadicoder1/LC/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aadicoder1/LC/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aadicoder1/LC/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aadicoder1/LC/tree/master/0046-permutations) |
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aadicoder1/LC/tree/master/0258-add-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aadicoder1/LC/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
