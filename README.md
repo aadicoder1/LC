@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadicoder1/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/aadicoder1/LC/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aadicoder1/LC/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aadicoder1/LC/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/aadicoder1/LC/tree/master/0875-koko-eating-bananas) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aadicoder1/LC/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadicoder1/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/aadicoder1/LC/tree/master/1652-defuse-the-bomb) |
