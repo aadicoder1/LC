@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aadicoder1/LC/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/aadicoder1/LC/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/aadicoder1/LC/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadicoder1/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aadicoder1/LC/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/aadicoder1/LC/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/aadicoder1/LC/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aadicoder1/LC/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aadicoder1/LC/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/aadicoder1/LC/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aadicoder1/LC/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/aadicoder1/LC/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadicoder1/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aadicoder1/LC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
