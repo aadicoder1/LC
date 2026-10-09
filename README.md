@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aadicoder1/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aadicoder1/LC/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/aadicoder1/LC/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/aadicoder1/LC/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aadicoder1/LC/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/aadicoder1/LC/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aadicoder1/LC/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadicoder1/LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/aadicoder1/LC/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadicoder1/LC/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -386,4 +389,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aadicoder1/LC/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aadicoder1/LC/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aadicoder1/LC/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aadicoder1/LC/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
