@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadicoder1/LC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadicoder1/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/aadicoder1/LC/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/aadicoder1/LC/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/aadicoder1/LC/tree/master/2396-strictly-palindromic-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/aadicoder1/LC/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aadicoder1/LC/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aadicoder1/LC/tree/master/3483-unique-3-digit-even-numbers) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/aadicoder1/LC/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aadicoder1/LC/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
 |  |
@@ -421,4 +424,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadicoder1/LC/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
