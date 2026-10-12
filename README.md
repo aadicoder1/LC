@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aadicoder1/LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadicoder1/LC/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/aadicoder1/LC/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadicoder1/LC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadicoder1/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aadicoder1/LC/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadicoder1/LC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
