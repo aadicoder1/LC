@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadicoder1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadicoder1/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aadicoder1/LC/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/aadicoder1/LC/tree/master/1544-make-the-string-great) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aadicoder1/LC/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aadicoder1/LC/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/aadicoder1/LC/tree/master/1927-sum-game) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadicoder1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aadicoder1/LC/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aadicoder1/LC/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/aadicoder1/LC/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
 | ------- |
