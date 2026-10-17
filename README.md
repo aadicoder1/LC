@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aadicoder1/LC/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadicoder1/LC/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aadicoder1/LC/tree/master/0058-length-of-last-word) |
+| [0394-decode-string](https://github.com/aadicoder1/LC/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/aadicoder1/LC/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/aadicoder1/LC/tree/master/0567-permutation-in-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aadicoder1/LC/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/aadicoder1/LC/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aadicoder1/LC/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aadicoder1/LC/tree/master/3483-unique-3-digit-even-numbers) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/aadicoder1/LC/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aadicoder1/LC/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/aadicoder1/LC/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadicoder1/LC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadicoder1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
