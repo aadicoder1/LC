@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aadicoder1/LC/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/aadicoder1/LC/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aadicoder1/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadicoder1/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/aadicoder1/LC/tree/master/0643-maximum-average-subarray-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aadicoder1/LC/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aadicoder1/LC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aadicoder1/LC/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/aadicoder1/LC/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadicoder1/LC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadicoder1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aadicoder1/LC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aadicoder1/LC/tree/master/0503-next-greater-element-ii) |
 ## Geometry
 |  |
 | ------- |
