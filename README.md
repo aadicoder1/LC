@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aadicoder1/LC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadicoder1/LC/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/aadicoder1/LC/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/aadicoder1/LC/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadicoder1/LC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadicoder1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aadicoder1/LC/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aadicoder1/LC/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/aadicoder1/LC/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/aadicoder1/LC/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Bucket Sort
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aadicoder1/LC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadicoder1/LC/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/aadicoder1/LC/tree/master/0901-online-stock-span) |
 ## Geometry
 |  |
 | ------- |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aadicoder1/LC/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadicoder1/LC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aadicoder1/LC/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
