@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aadicoder1/LC/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadicoder1/LC/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aadicoder1/LC/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/aadicoder1/LC/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/aadicoder1/LC/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/aadicoder1/LC/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/aadicoder1/LC/tree/master/0520-detect-capital) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadicoder1/LC/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadicoder1/LC/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/aadicoder1/LC/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadicoder1/LC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/aadicoder1/LC/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aadicoder1/LC/tree/master/0234-palindrome-linked-list) |
