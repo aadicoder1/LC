@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<2*arr.length;i++){
             int ele=arr[i%arr.length];
             while(!st.isEmpty() && ele>arr[st.peek()]){
-                ng[st.pop()]=arr[i%arr.length];
+                ng[st.pop()]=ele;
             }
             st.push(i%arr.length);
         }
