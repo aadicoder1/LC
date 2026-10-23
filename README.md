@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aadicoder1/LC/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadicoder1/LC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadicoder1/LC/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/aadicoder1/LC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadicoder1/LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadicoder1/LC/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aadicoder1/LC/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadicoder1/LC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadicoder1/LC/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/aadicoder1/LC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadicoder1/LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadicoder1/LC/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aadicoder1/LC/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadicoder1/LC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadicoder1/LC/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/aadicoder1/LC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadicoder1/LC/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aadicoder1/LC/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aadicoder1/LC/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aadicoder1/LC/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/aadicoder1/LC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadicoder1/LC/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
 |  |
