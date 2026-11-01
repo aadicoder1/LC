@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/aadicoder1/LC/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/aadicoder1/LC/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 | [1103-distribute-candies-to-people](https://github.com/aadicoder1/LC/tree/master/1103-distribute-candies-to-people) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aadicoder1/LC/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aadicoder1/LC/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/aadicoder1/LC/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadicoder1/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadicoder1/LC/tree/master/1248-count-number-of-nice-subarrays) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadicoder1/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadicoder1/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 ## Enumeration
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aadicoder1/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadicoder1/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aadicoder1/LC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadicoder1/LC/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2974-minimum-number-game](https://github.com/aadicoder1/LC/tree/master/2974-minimum-number-game) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aadicoder1/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aadicoder1/LC/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 | [2974-minimum-number-game](https://github.com/aadicoder1/LC/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aadicoder1/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadicoder1/LC/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadicoder1/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -498,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aadicoder1/LC/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 ## Number Theory
 |  |
 | ------- |
@@ -545,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadicoder1/LC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
