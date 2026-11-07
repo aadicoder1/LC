@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aadicoder1/LC/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aadicoder1/LC/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/aadicoder1/LC/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/aadicoder1/LC/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadicoder1/LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadicoder1/LC/tree/master/1004-max-consecutive-ones-iii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadicoder1/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadicoder1/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/aadicoder1/LC/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 ## Enumeration
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aadicoder1/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadicoder1/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/aadicoder1/LC/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/aadicoder1/LC/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aadicoder1/LC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aadicoder1/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aadicoder1/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aadicoder1/LC/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/aadicoder1/LC/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aadicoder1/LC/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aadicoder1/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aadicoder1/LC/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aadicoder1/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aadicoder1/LC/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/aadicoder1/LC/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aadicoder1/LC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aadicoder1/LC/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/aadicoder1/LC/tree/master/2351-first-letter-to-appear-twice) |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aadicoder1/LC/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aadicoder1/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aadicoder1/LC/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/aadicoder1/LC/tree/master/0912-sort-an-array) |
 ## Algorithm X
 |  |
 | ------- |
@@ -584,4 +590,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/aadicoder1/LC/tree/master/0692-top-k-frequent-words) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aadicoder1/LC/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aadicoder1/LC/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
